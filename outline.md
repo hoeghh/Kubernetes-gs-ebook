@@ -19,11 +19,13 @@ In this book we will cover the basics of Kubernetes, and help you getting your L
 ## 3.7 Secrets
 ## 3.8 PersistantVolumes / Claims
 # 4.0 Doing by example - Jira and mySQL
-## 4.1 Preparing the Linux containers
-## 4.2 Declaring ConfigMaps and Secrets
-## 4.3 Declaring Jira as a PetSets
-## 4.4 Creating a Jira service
-## 4.5 Creating an Ingress objects
-## 4.6 Deploying a mySQL database
-## 4.7 Deploying our Jira PetSet
-## 4.8 Accessing Jira from the outside
+## 4.1 Prerequisites
+## 4.2 Preparing the Linux containers
+## 4.3 Declaring ConfigMaps and Secrets
+## 4.4 Declaring Jira as a PetSets
+## 4.5 Creating a Jira service
+## 4.6 Creating an Ingress objects
+## 4.7 Deploying a mySQL database
+## 4.8 Deploying our Jira PetSet
+## 4.9 Accessing Jira from the outside
+# 5.0 Summerize and ending
