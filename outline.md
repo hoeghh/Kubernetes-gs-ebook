@@ -1,5 +1,5 @@
 In this book we will cover the basics of Kubernetes, and help you getting your Linux containers scheduled in Kubernetes. We will cover the most used concepts from writting Dockerfiles, deploying Pods to accessing them from outside the cluster.
-
+# About the book and auther
 # 1.0 What is a Linux container
 # 2.0 What is Kubernetes
 ## 2.1 A history of Kubernetes
@@ -21,11 +21,14 @@ In this book we will cover the basics of Kubernetes, and help you getting your L
 # 4.0 Doing by example - Jira and mySQL
 ## 4.1 Prerequisites
 ## 4.2 Preparing the Linux containers
-## 4.3 Declaring ConfigMaps and Secrets
+## 4.3 Declaring ConfigMaps
 ## 4.4 Declaring Jira as a PetSets
 ## 4.5 Creating a Jira service
 ## 4.6 Creating an Ingress objects
 ## 4.7 Deploying a mySQL database
 ## 4.8 Deploying our Jira PetSet
 ## 4.9 Accessing Jira from the outside
+### 4.9.1 Using Traefik as a Load Balancer
+### 4.9.2 Setting up DNS
+### 4.9.3 Accessing Jira
 # 5.0 Summerize and ending
