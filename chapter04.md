@@ -1,6 +1,6 @@
 # 4.0 Doing by example - Jira and mySQL
 ## 4.1 Prerequisites
-## 4.2 Preparing the Linux containers
+## 4.2 Preparing the Linux container image
 ## 4.3 Declaring ConfigMaps
 ## 4.4 Declaring Jira as a PetSets
 ## 4.5 Creating a Jira service
