@@ -28,7 +28,7 @@ In this book we will cover the basics of Kubernetes, and help you getting your L
 ## 4.7 Deploying a mySQL database
 ## 4.8 Deploying our Jira PetSet
 ## 4.9 Accessing Jira from the outside
-### 4.9.1 Using Traefik as a Load Balancer
+### 4.9.1 Using Traefik as an Ingress Load Balancer
 ### 4.9.2 Setting up DNS
 ### 4.9.3 Accessing Jira
 # [5.0 Summerize and ending](chapter05.md)

@@ -8,6 +8,6 @@
 ## 4.7 Deploying a mySQL database
 ## 4.8 Deploying our Jira PetSet
 ## 4.9 Accessing Jira from the outside
-### 4.9.1 Using Traefik as a Load Balancer
+### 4.9.1 Using Traefik as an Ingress Load Balancer
 ### 4.9.2 Setting up DNS
 ### 4.9.3 Accessing Jira
