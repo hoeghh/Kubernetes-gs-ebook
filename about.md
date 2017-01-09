@@ -1,1 +1,1 @@
-# About the book and auther
+# About the book and author

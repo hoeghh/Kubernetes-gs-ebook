@@ -1,5 +1,5 @@
 In this book we will cover the basics of Kubernetes, and help you getting your Linux containers scheduled in Kubernetes. We will cover the most used concepts from writting Dockerfiles, deploying Pods to accessing them from outside the cluster.
-# [About the book and auther](about.md)
+# [About the book and author](about.md)
 # [1.0 What is a Linux container](chapter01.md)
 # [2.0 What is Kubernetes](chapter02.md)
 ## 2.1 A history of Kubernetes
