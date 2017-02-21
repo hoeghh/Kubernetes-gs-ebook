@@ -11,10 +11,10 @@ In this book we will cover the basics of Kubernetes, and help you getting your L
 ### 2.3.4 Kube-Proxy
 # [3.0 Kubnernetes objects](chapter03.md)
 ## 3.1 Pods
-## 3.2. Deployments
-## 3.3. Services
+## 3.2 Deployments
+## 3.3 Services
 ## 3.4 Ingress
-## 3.5 PetSets
+## 3.5 StatefulSet
 ## 3.6 ConfigMaps
 ## 3.7 Secrets
 ## 3.8 PersistantVolumes / Claims
@@ -22,13 +22,13 @@ In this book we will cover the basics of Kubernetes, and help you getting your L
 ## 4.1 Prerequisites
 ## 4.2 Preparing the Linux container image
 ## 4.3 Declaring ConfigMaps
-## 4.4 Declaring Jira as a PetSets
+## 4.4 Declaring Jira as a StatefulSet
 ## 4.5 Creating a Jira service
 ## 4.6 Creating an Ingress objects
 ## 4.7 Deploying a mySQL database
-## 4.8 Deploying our Jira PetSet
+## 4.8 Deploying our Jira StatefulSet
 ## 4.9 Accessing Jira from the outside
 ### 4.9.1 Using Traefik as an Ingress Load Balancer
 ### 4.9.2 Setting up DNS
-### 4.9.3 Accessing Jira
+### 4.9.3 Accessing and setting up Jira
 # [5.0 Summerize and ending](chapter05.md)
